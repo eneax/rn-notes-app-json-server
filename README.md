@@ -1,6 +1,6 @@
 # rn-notes-app-json-server
 
-JSON Server for my [React Native Notes App](https://github.com/eneax/rn-notes-app)
+JSON Server for my [React Native Notes App](https://github.com/eneax/rn-notes-app).
 
 ## Run this project locally
 
