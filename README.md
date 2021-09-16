@@ -17,3 +17,8 @@ npm run db
 ```shell
 npm run tunnel
 ```
+
+## Note
+
+Every time you start `ngrok`, you will get a new HTTP/TCP tunnel on random URLs/ports.
+If you want to have custom subdomains and reserved domains, you have to pay :)
